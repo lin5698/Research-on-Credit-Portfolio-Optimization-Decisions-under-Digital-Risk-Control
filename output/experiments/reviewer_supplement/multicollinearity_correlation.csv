@@ -1,0 +1,6 @@
+,currentRatio,netProfitMargin,assetTurnover,operatingCashFlowSalesRatio,debtEquityRatio
+currentRatio,1.0,-0.012,-0.072,0.054,-0.043
+netProfitMargin,-0.012,1.0,-0.048,0.174,0.003
+assetTurnover,-0.072,-0.048,1.0,-0.228,0.003
+operatingCashFlowSalesRatio,0.054,0.174,-0.228,1.0,-0.031
+debtEquityRatio,-0.043,0.003,0.003,-0.031,1.0

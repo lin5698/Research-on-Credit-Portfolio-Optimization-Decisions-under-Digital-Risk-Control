@@ -1,0 +1,6 @@
+Name,Sector,currentRatio,netProfitMargin,assetTurnover,operatingCashFlowSalesRatio,debtEquityRatio,sector_encoded,PD_Calibrated,Predicted_Class,RI_Calibrated
+Apple Inc.,Technology,1.11,0.23,0.8,0.35,0.59,10,0.00787937,0,44.27366338307051
+Walmart Inc.,Consumer Services,0.86,0.03,2.45,0.06,0.6,4,0.0875665,2,36.61865503231396
+NVIDIA Corp,Technology,6.29,0.22,0.54,0.4,0.2,10,0.59595364,3,0.0
+Xerox Holdings,Technology,1.5,-0.04,0.6,0.07,2.78,10,0.71338505,3,100.0
+EYRC Worldwide,Technology,1.25,-0.01,2.55,0.01,-4.19,10,0.46172675,2,50.59505008520322

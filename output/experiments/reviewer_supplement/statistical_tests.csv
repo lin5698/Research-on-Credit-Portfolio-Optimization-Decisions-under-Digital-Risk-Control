@@ -1,0 +1,9 @@
+comparison,metric,alternative,u_statistic,p_value
+SA-NA vs SA-only,hv,greater,70.0,0.07023252407917749
+SA-NA vs SA-only,igd,less,30.0,0.07023252407917749
+SA-NA vs NSGA-II,hv,greater,78.0,0.01881765689365712
+SA-NA vs NSGA-II,igd,less,18.0,0.008628728041559883
+SA-NA vs MOEA/D,hv,greater,98.0,0.00016491926038899674
+SA-NA vs MOEA/D,igd,less,1.0,0.00012306406395261484
+SA-NA vs SPEA2,hv,greater,41.0,0.7636622032442064
+SA-NA vs SPEA2,igd,less,28.0,0.05205494483011341

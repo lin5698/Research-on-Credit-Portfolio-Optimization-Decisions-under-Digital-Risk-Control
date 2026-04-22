@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+venv/
+tmp/
+.~_*
+output/doc/HSSC_revision_submission/
+output/doc/HSSC_revision_submission_package.zip
